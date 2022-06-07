@@ -1,7 +1,7 @@
 # Path-Planning-for-a-point-robot-using-Dijkstra-Search-Algorithm
 ENPM661 Project 2
 
-** Description** : A point robot traverses in an obstacle map to find the goal from a starting point without colliding with the obstacles
+**Description** : A point robot traverses in an obstacle map to find the goal from a starting point without colliding with the obstacles
 
 
 
