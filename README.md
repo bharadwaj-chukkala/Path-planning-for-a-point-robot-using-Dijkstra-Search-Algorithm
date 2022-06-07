@@ -37,6 +37,12 @@ A point robot traverses in an obstacle map to find the goal from a starting poin
 
 ### Output:
 - A plot of all explored nodes and a path depicting the shortest distance between start and goal node.
+- The green area depicts the explored nodes
+- The dotted red line depicts the path
+- The dark blue area is the obstacle
+- the light blue area is the clearance to completely define the configuration space
+![Successful Plot](https://user-images.githubusercontent.com/106445479/172483012-860d9381-5659-4b68-a833-49dd8a324e7a.png)
+
 
 ### Contact Author
 
