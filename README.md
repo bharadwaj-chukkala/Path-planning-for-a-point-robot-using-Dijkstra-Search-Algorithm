@@ -24,8 +24,8 @@ A point robot traverses in an obstacle map to find the goal from a starting poin
 
 ### Code:
  - The code describes how to implement Dijkstra algorithm on a point robot
-  |Some notable functions are: 
-  |-
+  |Some notable functions are
+  |--
   |C_obs_space() |Constructs obstacle space
   |Djikstra() | Implements Djikstra Algorithm
   |Action_set() | Implements motion of point robot to traverse
