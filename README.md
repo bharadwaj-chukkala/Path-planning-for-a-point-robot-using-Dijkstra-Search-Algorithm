@@ -27,10 +27,9 @@ A point robot traverses in an obstacle map to find the goal from a starting poin
  - Some notable functions are: 
 
   |Following
-  |--
-  | C_obs_space() |Constructs obstacle space
-  | Djikstra() | Implements Djikstra Algorithm
-  | Action_set() | Implements motion of point robot to traverse
+  |C_obs_space() |Constructs obstacle space
+  |Djikstra() | Implements Djikstra Algorithm
+  |Action_set() | Implements motion of point robot to traverse
 
 ### Special Instructions on giving Arbitrary start and goal nodes:
  - (0,0),(1,1),(400,250),(399,249),(399,250),(400,0),(400,249),(0,250),(0,400),(250,0) are out of bounds
