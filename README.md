@@ -43,6 +43,8 @@ ENPM661 Project 2
 - the light blue area is the clearance to completely define the configuration space
 ![Successful Plot](https://user-images.githubusercontent.com/106445479/172483012-860d9381-5659-4b68-a833-49dd8a324e7a.png)
 
+### Video Output:
+https://drive.google.com/file/d/1KK9bOTwXyvuwQzSftI_3rTO0BENsvvPC/view?usp=sharing
 
 ### Contact Author
 
